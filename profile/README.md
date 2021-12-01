@@ -10,9 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+# Me
 -My name is Wei Zhang.  
 
 -I am currenlty studying Git.  
 
 -I am looking forward to working in ThoughtWorks.  
 
+# Cheatsheet of Git
+<img src="pictures/github.png" alt="github workflow" width="30%" />
