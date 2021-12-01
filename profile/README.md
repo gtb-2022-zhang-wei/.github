@@ -12,3 +12,4 @@
 -->
 My name is Wei Zhang.
 I am currenlty studying Git.
+I am looking forward to woorking in ThoughtWorks.
