@@ -18,4 +18,4 @@
 -I am looking forward to working in ThoughtWorks.  
 
 # Cheatsheet of Git
-<img src="pictures/github.png" alt="github workflow" width="30%" />
+<img src="../pictures/github.png" alt="github workflow" width="30%" />
